@@ -1,5 +1,5 @@
 {
-"Listen_addr": [":80"],
+"Listen_addr": [":8080"],
 "Proxy_key": "Meng",
 "Encrypt_password": "xiaowan",
 "Udp_flag": "httpUDP",
